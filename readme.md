@@ -1,0 +1,1 @@
+requires "listparser" and "requests" libraries, available trough pip.
